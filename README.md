@@ -8,7 +8,7 @@ The Stopwatch is a web application that practices JavaScript, HTML, and CSS. It 
 
 ## Live Demo
 
-You can view the live demo of the project![Stop-Watch](gaya3ramesh.github.io/Stop-Watch/).
+You can view the live demo of the project[Stop-Watch](gaya3ramesh.github.io/Stop-Watch/).
 
 ## Features
 
