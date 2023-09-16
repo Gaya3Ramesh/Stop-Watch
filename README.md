@@ -8,7 +8,7 @@ The Stopwatch is a web application that practices JavaScript, HTML, and CSS. It 
 
 ## Live Demo
 
-You can view the live demo of the project ![Stop-Watch](gaya3ramesh.github.io/Stop-Watch/).
+You can view the live demo of the project![Stop-Watch](gaya3ramesh.github.io/Stop-Watch/).
 
 ## Features
 
@@ -31,12 +31,8 @@ You can view the live demo of the project ![Stop-Watch](gaya3ramesh.github.io/St
 
 ## Installation
 
-1. Clone the repository:![git clone](https://github.com/Gaya3Ramesh/Stop-Watch.git)
+1. Clone the repository: [git clone](https://github.com/Gaya3Ramesh/Stop-Watch.git)
 2. Open the `index.html` file in your web browser to use the stopwatch.
-
-## Screenshots
-
-![Stopwatch in Action](stopwatch-action-screenshot.png)
 
 ## Contributions
 
